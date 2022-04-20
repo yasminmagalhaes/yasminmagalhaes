@@ -1,8 +1,8 @@
 ## Olá! Prazer, sou Yasmin Magalhães ;)
 <div align="center">
   <a href="https://github.com/yasminmagalhaes">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yasminmagalhaes&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminmagalhaes&layout=compact&langs_count=7&theme=dracula"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=yasminmagalhaes&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminmagalhaes&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
   ##
