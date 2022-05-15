@@ -1,4 +1,4 @@
-## Olá! Prazer, sou Yasmin Magalhães ;)
+## Olá! Prazer, sou Yasmin Magalhães  ;)
 <div align="center">
   <a href="https://github.com/yasminmagalhaes">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yasminmagalhaes&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
