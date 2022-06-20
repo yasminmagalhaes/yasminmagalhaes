@@ -1,4 +1,16 @@
 ## Olá! Prazer, sou Yasmin Magalhães  ;)
+
+Profissional
+- Atuo como Squad Leader;
+- Já realizei trabalhos documentação, testes, suporte e sucesso do cliente;
+
+Acadêmico
+- Graduada em Análise e desenvolvimento de sistemas pela UNINABUCO (07/2022);
+- Graduanda em Sistemas de Informação pelo IFAL (2020 - 2023);
+
+Técnico
+- HTMLL, CSS, SASS e JavaScript;
+
 <div align="center">
   <a href="https://github.com/yasminmagalhaes">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yasminmagalhaes&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
