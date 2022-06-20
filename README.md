@@ -5,7 +5,7 @@ Profissional
 - Já realizei trabalhos documentação, testes, suporte e sucesso do cliente;
 
 Acadêmico
-- Graduada em Análise e desenvolvimento de sistemas pela UNINABUCO (07/2022);
+- Graduada em Análise e desenvolvimento de sistemas pela UNINABUCO (06/2022);
 - Graduanda em Sistemas de Informação pelo IFAL (2020 - 2023);
 
 Técnico
