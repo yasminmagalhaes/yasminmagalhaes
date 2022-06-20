@@ -1,14 +1,14 @@
-## Olá! Prazer, sou Yasmin Magalhães  ;)
+## 👩‍💻 Olá! Prazer, sou Yasmin Magalhães  ;)
 
-Profissional
+💻 Profissional
 - Atuo como Squad Leader;
 - Já realizei trabalhos documentação, testes, suporte e sucesso do cliente;
 
-Acadêmico
+🎓 Acadêmico
 - Graduada em Análise e desenvolvimento de sistemas pela UNINABUCO (06/2022);
 - Graduanda em Sistemas de Informação pelo IFAL (2020 - 2023);
 
-Técnico
+👩‍💻 Técnico
 - HTMLL, CSS, SASS e JavaScript;
 
 <div align="center">
