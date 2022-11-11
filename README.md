@@ -2,7 +2,7 @@
 
 💻 Profissional
 - Atuo como Squad Leader;
-- Já realizei trabalhos de documentação, testes, suporte e sucesso do cliente;
+- Já realizei trabalhos de gestão de equipe, documentação, testes, suporte e sucesso do cliente;
 
 🎓 Acadêmico
 - Graduada em Análise e desenvolvimento de sistemas pela UNINABUCO (06/2022);
