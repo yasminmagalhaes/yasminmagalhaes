@@ -12,6 +12,8 @@
 
 👩‍💻 Técnico
 - HTMLL, CSS, SASS, JavaScript e React;
+- Figma e Design System;
+- Webflow;
 
 <div align="center">
   <a href="https://github.com/yasminmagalhaes">
