@@ -5,10 +5,10 @@
 - Já realizei trabalhos de gestão de equipe, documentação, testes, suporte e sucesso do cliente;
 
 🎓 Acadêmico
+- Graduanda em Sistemas de Informação pelo IFAL (2020 - 2024);
 - Graduada em Análise e desenvolvimento de sistemas pela UNINABUCO (06/2022);
 - Pós-graduanda em Desenvolvimento de Aplicações Web;
 - Pós-graduanda em Análise de projeto de sistemas;
-- Graduanda em Sistemas de Informação pelo IFAL (2020 - 2023);
 
 👩‍💻 Técnico
 - HTMLL, CSS, SASS, JavaScript e React;
