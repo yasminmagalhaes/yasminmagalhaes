@@ -14,7 +14,7 @@
 - HTMLL, CSS, SASS, JavaScript e React;
 - Figma e Design System;
 - Webflow;
-- Automatização de testes;
+- Automação de teste;
 
 <div align="center">
   <a href="https://github.com/yasminmagalhaes">
