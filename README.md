@@ -1,7 +1,7 @@
 ## 👩‍💻 Olá! Prazer, sou Yasmin Magalhães  ;)
 
 💻 Profissional
-- Atuo como Squad Leader;
+- Experiência de 4 anos em startup;
 - Já realizei trabalhos de gestão de equipe, documentação, testes, suporte e sucesso do cliente;
 
 🎓 Acadêmico
